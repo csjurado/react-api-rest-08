@@ -1,0 +1,16 @@
+{
+  "name": "08-rest-api",
+  "version": "1.0.0",
+  "description": "REST API'S con Express y TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec ts-node src/index.ts"
+  },
+  "author": "Carlos Jurado csjurado",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
